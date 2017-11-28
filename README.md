@@ -34,4 +34,5 @@ Cách thực hiện món đồ uống thần kỳ
 
 
 Quá đơn giản phải không nào? Chúc các bạn luôn thành công và luôn xinh đẹp nhé!
-Xem chi tiết tại https://trangdeptunhien.vn/tinh-bot-nghe-136.html
+Xem chi tiết tại [tinh bột nghệ](https://trangdeptunhien.vn/tinh-bot-nghe-136.html)
+[đây](http://daringfireball.net/projects/markdown/syntax)
